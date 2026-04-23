@@ -108,12 +108,4 @@ Beautiful, responsive dashboard to manage all your reels in one place.
 
 ---
 
-## 📄 License
 
-MIT License - feel free to use this project for personal or commercial purposes!
-
----
-
-## 💖 Credits
-
-Built with ❤️ by **Tejas.algo** (Migrated to Spring Boot)
