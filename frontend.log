@@ -1,0 +1,14 @@
+
+> instagram-dm-automation@1.0.0 dev
+> next dev
+
+   ▲ Next.js 14.1.0
+   - Local:        http://localhost:3000
+   - Environments: .env.local
+
+ ✓ Ready in 4.6s
+ ○ Compiling / ...
+ ✓ Compiled / in 1714ms (618 modules)
+ ✓ Compiled in 370ms (280 modules)
+ ✓ Compiled /not-found in 218ms (475 modules)
+[?25h
